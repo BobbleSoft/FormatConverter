@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("FormatConverter")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("FormatConverter")>
+<Assembly: AssemblyTitle("Format Converter")>
+<Assembly: AssemblyDescription("Converts one textual format to another.")>
+<Assembly: AssemblyCompany("BobbleSoft")>
+<Assembly: AssemblyProduct("Format Converter")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
